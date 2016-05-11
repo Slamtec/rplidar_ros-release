@@ -1,0 +1,21 @@
+ros-indigo-rplidar-ros (1.5.2-0trusty) trusty; urgency=high
+
+  * Release 1.5.2.
+  * Update RPLIDAR SDK to 1.5.2
+  * Support RPLIDAR A2
+  * Contributors: kint
+
+ -- Slamtec ROS Maintainer <ros@slamtec.com>  Fri, 29 Apr 2016 07:00:00 -0000
+
+ros-indigo-rplidar-ros (1.0.1-0trusty) trusty; urgency=high
+
+  * Release 1.0.1.
+  * Add angle compensate mechanism to compatible with ROS scan message
+  * Add RPLIDAR sdk to the repo.
+  * First release of RPLIDAR ROS package (1.0.0)
+  * Initial commit
+  * Contributors: Ling, RoboPeak Public Repos
+
+ -- Slamtec ROS Maintainer <ros@slamtec.com>  Tue, 03 Jun 2014 07:00:00 -0000
+
+
