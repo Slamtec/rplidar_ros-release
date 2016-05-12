@@ -1,26 +1,3 @@
-## rplidar_ros (hydro) - 1.5.2-0
-
-The packages in the `rplidar_ros` repository were released into the `hydro` distro by running `/usr/bin/bloom-release -r hydro -t hydro rplidar_ros --override-release-repository-url https://github.com/kintzhao/rplidar_ros-release.git` on `Thu, 12 May 2016 01:13:55 -0000`
-
-The `rplidar_ros` package was released.
-
-Version of package(s) in repository `rplidar_ros`:
-
-- upstream repository: https://github.com/robopeak/rplidar_ros.git
-- release repository: https://github.com/robopeak/rplidar_ros-release.git
-- rosdistro version: `1.0.1-0`
-- old version: `null`
-- new version: `1.5.2-0`
-
-Versions of tools used:
-
-- bloom version: `0.5.21`
-- catkin_pkg version: `0.2.10`
-- rosdep version: `0.11.4`
-- rosdistro version: `0.4.7`
-- vcstools version: `0.1.38`
-
-
 ## rplidar_ros (jade) - 1.5.2-0
 
 The packages in the `rplidar_ros` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade rplidar_ros --override-release-repository-url https://github.com/kintzhao/rplidar_ros-release.git` on `Wed, 11 May 2016 11:26:07 -0000`
