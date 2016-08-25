@@ -1,3 +1,26 @@
+## rplidar_ros (kinetic) - 1.5.5-0
+
+The packages in the `rplidar_ros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release rplidar_ros --track kinetic --rosdistro kinetic` on `Thu, 25 Aug 2016 02:35:25 -0000`
+
+The `rplidar_ros` package was released.
+
+Version of package(s) in repository `rplidar_ros`:
+
+- upstream repository: https://github.com/robopeak/rplidar_ros.git
+- release repository: https://github.com/kintzhao/rplidar_ros-release.git
+- rosdistro version: `1.5.4-0`
+- old version: `1.5.4-0`
+- new version: `1.5.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## rplidar_ros (jade) - 1.5.5-0
 
 The packages in the `rplidar_ros` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade rplidar_ros --override-release-repository-url https://github.com/kintzhao/rplidar_ros-release.git` on `Wed, 24 Aug 2016 10:23:09 -0000`
