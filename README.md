@@ -1,3 +1,26 @@
+## rplidar_ros (jade) - 1.7.0-1
+
+The packages in the `rplidar_ros` repository were released into the `jade` distro by running `/usr/bin/bloom-release rplidar_ros --track jade --rosdistro jade --override-release-repository-url https://github.com/Slamtec/rplidar_ros-release.git --edit` on `Sun, 29 Jul 2018 11:07:55 -0000`
+
+The `rplidar_ros` package was released.
+
+Version of package(s) in repository `rplidar_ros`:
+
+- upstream repository: https://github.com/Slamtec/rplidar_ros.git
+- release repository: https://github.com/kintzhao/rplidar_ros-release.git
+- rosdistro version: `1.5.7-0`
+- old version: `1.7.0-0`
+- new version: `1.7.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.7`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.40`
+
+
 ## rplidar_ros (indigo) - 1.7.0-0
 
 The packages in the `rplidar_ros` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rplidar_ros --track indigo --rosdistro indigo --override-release-repository-push-url https://github.com/Slamtec/rplidar_ros-release.git --edit` on `Sun, 29 Jul 2018 01:58:46 -0000`
