@@ -4,6 +4,12 @@ Changelog for package rplidar_ros
 
 1.7.0 (2018-07-19)
 ------------------
+* Update RPLIDAR SDK to 1.7.0
+* support scan points farther than 16.38m
+* upport display and set scan mode
+* Contributors: kint
+
+
 1.6.0 (2018-05-21)
 ------------------
 * Release 1.6.0.
