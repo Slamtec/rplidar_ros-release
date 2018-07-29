@@ -1,3 +1,4 @@
+release_repo_url: https://github.com/Slamtec/rplidar_ros-release.git
 tracks:
   indigo:
     actions:
