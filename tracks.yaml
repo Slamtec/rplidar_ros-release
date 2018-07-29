@@ -41,7 +41,7 @@ tracks:
     last_version: 1.7.0
     name: rplidar_ros
     patches: null
-    release_inc: '0'
+    release_inc: '1'
     release_repo_url: https://github.com/kintzhao/rplidar_ros-release.git
     release_tag: :{version}
     ros_distro: jade
