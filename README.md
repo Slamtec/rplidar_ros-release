@@ -1,3 +1,26 @@
+## rplidar_ros (melodic) - 1.7.0-0
+
+The packages in the `rplidar_ros` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rplidar_ros --track melodic --rosdistro melodic --override-release-repository-url https://github.com/Slamtec/rplidar_ros-release.git --edit` on `Mon, 30 Jul 2018 01:17:45 -0000`
+
+The `rplidar_ros` package was released.
+
+Version of package(s) in repository `rplidar_ros`:
+
+- upstream repository: https://github.com/Slamtec/rplidar_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.7.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.7`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.40`
+
+
 ## rplidar_ros (lunar) - 1.7.0-0
 
 The packages in the `rplidar_ros` repository were released into the `lunar` distro by running `/usr/bin/bloom-release rplidar_ros --track lunar --rosdistro lunar --override-release-repository-url https://github.com/Slamtec/rplidar_ros-release.git --edit` on `Mon, 30 Jul 2018 01:02:41 -0000`
