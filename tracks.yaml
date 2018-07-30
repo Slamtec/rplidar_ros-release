@@ -66,9 +66,9 @@ tracks:
     name: rplidar_ros
     patches: null
     release_inc: '0'
-    release_repo_url: https://github.com/kintzhao/rplidar_ros-release.git
+    release_repo_url: https://github.com/Slamtec/rplidar_ros-release.git
     release_tag: :{version}
     ros_distro: kinetic
     vcs_type: git
-    vcs_uri: https://github.com/robopeak/rplidar_ros.git
+    vcs_uri: https://github.com/Slamtec/rplidar_ros.git
     version: :{auto}
