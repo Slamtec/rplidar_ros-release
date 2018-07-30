@@ -1,0 +1,12 @@
+Source: ros-lunar-rplidar-ros
+Section: misc
+Priority: extra
+Maintainer: Slamtec ROS Maintainer <ros@slamtec.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-rosconsole, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-std-srvs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-rplidar-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-rosconsole, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-std-srvs
+Description: The rplidar ros package, support rplidar A2/A1 and A3
