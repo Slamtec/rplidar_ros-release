@@ -7,7 +7,7 @@ The `rplidar_ros` package was released.
 Version of package(s) in repository `rplidar_ros`:
 
 - upstream repository: https://github.com/Slamtec/rplidar_ros.git
-- release repository: unknown
+- release repository: https://github.com/Slamtec/rplidar_ros-release.git
 - rosdistro version: `null`
 - old version: `null`
 - new version: `1.7.0-0`
@@ -30,7 +30,7 @@ The `rplidar_ros` package was released.
 Version of package(s) in repository `rplidar_ros`:
 
 - upstream repository: https://github.com/Slamtec/rplidar_ros.git
-- release repository: unknown
+- release repository: https://github.com/Slamtec/rplidar_ros-release.git
 - rosdistro version: `null`
 - old version: `null`
 - new version: `1.7.0-0`
@@ -53,7 +53,7 @@ The `rplidar_ros` package was released.
 Version of package(s) in repository `rplidar_ros`:
 
 - upstream repository: https://github.com/Slamtec/rplidar_ros.git
-- release repository: https://github.com/kintzhao/rplidar_ros-release.git
+- release repository: https://github.com/Slamtec/rplidar_ros-release.git
 - rosdistro version: `1.5.7-0`
 - old version: `1.5.7-0`
 - new version: `1.7.0-0`
@@ -76,7 +76,7 @@ The `rplidar_ros` package was released.
 Version of package(s) in repository `rplidar_ros`:
 
 - upstream repository: https://github.com/Slamtec/rplidar_ros.git
-- release repository: https://github.com/kintzhao/rplidar_ros-release.git
+- release repository: https://github.com/Slamtec/rplidar_ros-release.git
 - rosdistro version: `1.5.7-0`
 - old version: `1.7.0-0`
 - new version: `1.7.0-1`
@@ -99,7 +99,7 @@ The `rplidar_ros` package was released.
 Version of package(s) in repository `rplidar_ros`:
 
 - upstream repository: https://github.com/Slamtec/rplidar_ros.git
-- release repository: https://github.com/kintzhao/rplidar_ros-release.git
+- release repository: https://github.com/Slamtec/rplidar_ros-release.git
 - rosdistro version: `1.5.7-0`
 - old version: `1.5.7-0`
 - new version: `1.7.0-0`
@@ -122,7 +122,7 @@ The `rplidar_ros` package was released.
 Version of package(s) in repository `rplidar_ros`:
 
 - upstream repository: https://github.com/Slamtec/rplidar_ros.git
-- release repository: https://github.com/kintzhao/rplidar_ros-release.git
+- release repository: https://github.com/Slamtec/rplidar_ros-release.git
 - rosdistro version: `1.5.7-0`
 - old version: `1.5.7-0`
 - new version: `1.7.0-0`
