@@ -1,0 +1,12 @@
+Source: ros-noetic-rplidar-ros
+Section: misc
+Priority: optional
+Maintainer: Slamtec ROS Maintainer <ros@slamtec.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-std-srvs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-rplidar-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-std-srvs
+Description: The rplidar ros package, support rplidar A1/A2/A3/S1/S2/S3/T1/C1
