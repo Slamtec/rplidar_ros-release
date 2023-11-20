@@ -1,3 +1,26 @@
+## rplidar_ros (noetic) - 2.1.5-1
+
+The packages in the `rplidar_ros` repository were released into the `noetic` distro by running `/usr/bin/bloom-release rplidar_ros --rosdistro noetic --track noetic --override-release-repository-url https://github.com/Slamtec/rplidar_ros-release.git --edit` on `Mon, 20 Nov 2023 07:23:50 -0000`
+
+The `rplidar_ros` package was released.
+
+Version of package(s) in repository `rplidar_ros`:
+
+- upstream repository: https://github.com/Slamtec/rplidar_ros.git
+- release repository: https://github.com/nobleo/rplidar_ros-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.0.0-1`
+- new version: `2.1.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rplidar_ros (noetic) - 2.0.0-1
 
 The packages in the `rplidar_ros` repository were released into the `noetic` distro by running `/usr/bin/bloom-release rplidar_ros --ros-distro noetic` on `Mon, 24 Jan 2022 11:29:24 -0000`
